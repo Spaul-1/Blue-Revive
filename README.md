@@ -1,2 +1,3 @@
 # Blue-Revive
-this is my for practice
+this is for practice.
+Author- Shubham Paul
